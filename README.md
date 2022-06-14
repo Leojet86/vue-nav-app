@@ -1,2 +1,24 @@
-# VueJs-nav-app
-A Basic vuejs application with navigation bar that load components in the main view component
+# vue-nav-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
